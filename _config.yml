@@ -28,7 +28,7 @@ twitter_username: 不告诉你
 github_username:  CabbageSage
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
