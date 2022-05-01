@@ -23,7 +23,7 @@ email: geduozeng@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   就是个新建的主页
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "zenggeduo.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 不告诉你
 github_username:  CabbageSage
 
